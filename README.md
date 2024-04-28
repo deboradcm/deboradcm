@@ -66,7 +66,10 @@ Icons: https://simpleicons.org/
 <code><img height="32" src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="GitLab"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" alt="CMake"/><code>
 
+**Testing Tools**
+<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg" alt="GitHub"/></code>
 
 
 **Business Tools**
