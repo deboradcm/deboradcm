@@ -29,8 +29,7 @@ Icons: https://simpleicons.org/
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboradcm33@gmail.com)](mailto:deboradcm33@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboradcm/)](https://www.linkedin.com/in/debora-costa-dev-qa/)
 [![Coders Rank Badge](https://img.shields.io/badge/-Coders%20Rank-67a4ac?style=flat-square&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/deboradcm)](https://profile.codersrank.io/user/deboradcm)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-005fed?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/pradolima/)](https://www.facebook.com/pradolima/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deboradcm/)](https://www.instagram.com/deboradcm/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deboradcm/)](https://www.instagram.com/deboradacostamedeiros?igsh=aDMzcGdzazA1YzRy)
 ![Visitors](https://badges.pufler.dev/visits/deboradcm/deboradcm)
 
 
