@@ -48,44 +48,37 @@ Icons: https://simpleicons.org/
 
 **Application and Data**
 
-
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" alt="Scikit Learn"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Tensorflow"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" alt="LaTeX"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,js,latex,tensorflow,swift,scikitlearn,html,css,md" />
+</a>
 
 
 **DevOps**
 
-<code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CMake-Dark.svg" alt="CMake"/><code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg"/></code>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,cmake,linux,maven" />
+</a>
+
 
 **Testing Tools**
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png"/></code>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gherkin,selenium" />
+</a>
+
 
 **Development Tools**
 
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg"/></code>
-<code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg"/></code>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,androidstudio,arduino" />
+</a>
+
 
 **Business Tools**
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
+
+<img height="50" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/>
+
 
 <br/>
 
