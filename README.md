@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Débora Medeiros <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Minas+Gerais%2C+Brazil;%F0%9F%A5%B3+I+love+anime+and+manga+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+My+MBTI+is+ENFJ-T;%F0%9F%91%80+I+speak+eng%2C+fr%2C+ge+and+ofc+pt;%F0%9F%A4%97+I+love+coding!!!;%F0%9F%90%B6+I+have+two+dogs+and+I+love+them)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%92%96+I+live+in+Manaus+Amazonas%2C+Brazil;%F0%9F%A5%B3+I'm+a+test+engineer+%3A3;%F0%9F%91%8C%F0%9F%8F%BD+I'm+a+student+of+robotics)](https://git.io/typing-svg)
 
 <!--
 Icons: https://simpleicons.org/
