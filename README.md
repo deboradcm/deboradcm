@@ -36,6 +36,8 @@ Icons: https://simpleicons.org/
 - :brazil: Brazillian (Manaus / AM)
 - :man_student: Degree in Physics at [UFAM](https://ufam.edu.br/)
 - :nerd_face: Specialization in AI for Software Testing Engineering [IARTES / UFAM](https://www.iartes.icomp.ufam.edu.br/)
+- 🎓 Master's in Computer Science at [PPGI/UFAM](https://ppgi.ufam.edu.br/)
+
 
 
 <br/><br/>
