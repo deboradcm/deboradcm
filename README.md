@@ -30,7 +30,6 @@ Icons: https://simpleicons.org/
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboradcm/)](https://www.linkedin.com/in/debora-costa-dev-qa/)
 [![Coders Rank Badge](https://img.shields.io/badge/-Coders%20Rank-67a4ac?style=flat-square&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/deboradcm)](https://profile.codersrank.io/user/deboradcm)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deboradcm/)](https://www.instagram.com/deboradacostamedeiros?igsh=aDMzcGdzazA1YzRy)
-![Visitors](https://badges.pufler.dev/visits/deboradcm/deboradcm)
 
 
 - :brazil: Brazillian (Manaus / AM)
