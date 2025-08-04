@@ -110,7 +110,7 @@ Icons: https://simpleicons.org/
 
 - 📌 Artificial intelligence applied to testing of software
 - 📌 Artificial intelligence applied to robotics
-- 📌 Reinforcement Learning
+- 📌 LLM Agents
 
 <br/>
 
