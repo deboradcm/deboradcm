@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Débora Medeiros <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Machine+Learning+Engineer;%f0%9f%a6%9c+I+live+in+Manaus+Amazonas%2C+Brazil;%f0%9f%a7+90+I'm+an+AI+researcher+%3A3;%f0%9f%a4%96+I'm+a+student+of+robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Machine+Learning+Engineer;%f0%9f%a6%9c+I+live+in+Manaus+Amazonas%2C+Brazil;%F0%9F%93%8A%20I'm%20an%20AI%20researche;%f0%9f%a4%96+I'm+a+student+of+robotics)](https://git.io/typing-svg)
 
 <!--
 Icons: https://simpleicons.org/
@@ -77,18 +77,6 @@ Icons: https://simpleicons.org/
 
 <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/>
 
-
-<br/>
-
-## Tech Skills
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=deboradcm"></img>
-
-<br/>
-
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=deboradcm&badges=5&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
 
 <br/>
 
