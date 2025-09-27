@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Débora Medeiros <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%f0%9f%a6%9c+I+live+in+Manaus+Amazonas%2C+Brazil;%f0%9f%a7+90+I'm+a+test+engineer+%3A3;%f0%9f%a4%96+I'm+a+student+of+robotics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=22&lines=%F0%9F%92%BB+I'm+a+Machine+Learning+Engineer;%f0%9f%a6%9c+I+live+in+Manaus+Amazonas%2C+Brazil;%f0%9f%a7+90+I'm+an+AI+researcher+%3A3;%f0%9f%a4%96+I'm+a+student+of+robotics)](https://git.io/typing-svg)
 
 <!--
 Icons: https://simpleicons.org/
