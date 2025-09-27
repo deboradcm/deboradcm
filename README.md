@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![I'm a Software Engineer (1)](https://github.com/deboradcm/deboradcm/blob/master/assets/Banner%20para%20Linkedin%20Tecnologia%20em%20Preto.gif)
+![Machine Learning Engineer (1)](https://github.com/deboradcm/deboradcm/blob/master/assets/Banner%20para%20Linkedin%20Tecnologia%20em%20Preto.gif)
 
 # Hi there! I'm Débora Medeiros <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
