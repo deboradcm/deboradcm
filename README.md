@@ -58,13 +58,6 @@ Icons: https://simpleicons.org/
 </a>
 
 
-**Testing Tools**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=gherkin,selenium" />
-</a>
-
-
 **Development Tools**
 
 <a href="https://skillicons.dev">
