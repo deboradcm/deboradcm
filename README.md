@@ -28,16 +28,13 @@ Icons: https://simpleicons.org/
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/deboradcm)](https://github.com/deboradcm)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deboradcm33@gmail.com)](mailto:deboradcm33@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboradcm/)](https://www.linkedin.com/in/debora-costa-dev-qa/)
-[![Coders Rank Badge](https://img.shields.io/badge/-Coders%20Rank-67a4ac?style=flat-square&logo=CodersRank&logoColor=white&link=https://profile.codersrank.io/user/deboradcm)](https://profile.codersrank.io/user/deboradcm)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/deboradcm/)](https://www.instagram.com/deboradacostamedeiros?igsh=aDMzcGdzazA1YzRy)
 
 
 - :brazil: Brazillian (Manaus / AM)
-- :man_student: Degree in Physics at [UFAM](https://ufam.edu.br/)
-- :nerd_face: Specialization in AI for Software Testing Engineering [IARTES / UFAM](https://www.iartes.icomp.ufam.edu.br/)
 - 🎓 Master's in Computer Science at [PPGI/UFAM](https://ppgi.ufam.edu.br/)
-
-
+- - :nerd_face: Specialization in AI for Software Testing Engineering [IARTES / UFAM](https://www.iartes.icomp.ufam.edu.br/)
+- :man_student: Degree in Physics at [UFAM](https://ufam.edu.br/)
 
 <br/><br/>
 
