@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Machine Learning Engineer (1)](https://github.com/deboradcm/deboradcm/blob/master/assets/Banner%20para%20Linkedin%20Tecnologia%20em%20Preto.gif)
+![Machine Learning Engineer](https://github.com/deboradcm/deboradcm/blob/master/assets/Banner%20para%20Linkedin%20Tecnologia%20em%20Preto.gif)
 
 # Hi there! I'm Débora Medeiros <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
 
@@ -33,7 +33,7 @@ Icons: https://simpleicons.org/
 
 - :brazil: Brazillian (Manaus / AM)
 - 🎓 Master's in Computer Science at [PPGI/UFAM](https://ppgi.ufam.edu.br/)
-- - :nerd_face: Specialization in AI for Software Testing Engineering [IARTES / UFAM](https://www.iartes.icomp.ufam.edu.br/)
+- :nerd_face: Specialization in AI for Software Testing Engineering [IARTES / UFAM](https://www.iartes.icomp.ufam.edu.br/)
 - :man_student: Degree in Physics at [UFAM](https://ufam.edu.br/)
 
 <br/><br/>
